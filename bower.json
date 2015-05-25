@@ -1,0 +1,17 @@
+{
+  "name": "crypto",
+  "version": "3.1.2",
+  "homepage": "https://github.com/qiushilee/crypto",
+  "authors": [
+    "qiushi <showbei@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "crypto.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
